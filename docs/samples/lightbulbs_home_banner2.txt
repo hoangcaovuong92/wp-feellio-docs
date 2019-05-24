@@ -1,0 +1,71 @@
+<section class="lightbulbs-section lightbulbs-fullwidth lightbulbs-banners lightbulbs-section--banner2" style="background-image:url({{background_img}})">
+    <div class="container">
+        <div class="banner-main-section banner--top">
+            <div class="banner-area left-area">
+                <a href="#">
+                    <img src="{{row1_image_1}}" alt="">
+                </a>
+            </div>
+            <div class="banner-area right-area">
+                <div class="heading">{{row1_heading}}</div>
+                <div class="desc">{{row1_desc}}</div>
+                <div class="action"><a class="button" href="{{row1_link}}">{{row1_button_text}}</a></div>
+            </div>
+        </div>
+        <div class="banner-main-section banner--middle">
+            <div class="banner-area left-area">
+                <div class="heading">{{row2_heading}}</div>
+                <div class="desc">{{row2_desc}}</div>
+                <div class="action"><a class="button" href="{{row2_link}}">{{row2_button_text}}</a></div>
+            </div>
+            <div class="banner-area right-area">
+                <a href="#">
+                    <img src="{{row2_image_1}}" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="banner-main-section banner--bottom">
+            <div class="banner-area left-area">
+                <div class="banner-slider" 
+                    data-slick='{
+                        "dots": true,
+                        "mobileFirst": true,
+                        "slidesToShow": 1,
+                        "slidesToScroll": 1,
+                        "vertical": true,
+                        "verticalSwiping": true,
+                        "autoplay": true,
+                        "autoplaySpeed": 2000,
+                        "lazyLoad": "anticipated",
+                        "arrows": false
+                    }'>
+                    <div class="banner-element">
+                        <a href="{{row3_link_slider_1}}">
+                            <img src="{{row3_image_slider_1}}" alt="">
+                        </a>
+                    </div>
+                    <div class="banner-element">
+                        <a href="{{row3_link_slider_2}}">
+                            <img src="{{row3_image_slider_2}}" alt="">
+                        </a>
+                    </div>
+                    <div class="banner-element">
+                            <a href="{{row3_link_slider_3}}">
+                                <img src="{{row3_image_slider_3}}" alt="">
+                            </a>
+                    </div>
+                    <div class="banner-element">
+                        <a href="{{row3_link_slider_4}}">
+                            <img src="{{row3_image_slider_4}}" alt="">
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="banner-area right-area">
+                <div class="heading">{{row3_heading}}</div>
+                <div class="desc">{{row3_desc}}</div>
+                <div class="action"><a class="button" href="{{row3_link}}">{{row3_button_text}}</a></div>
+            </div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,7 @@
+<div data-remote-banner-position="chiara-sidebar-brand-banner2">
+<img src="{{item2_img}}" alt="{{item2_alt}}" />
+<div class="sidebar-banner-content">
+<h4 class="sidebar-banner-title">{{item2_title}}</h4>
+<h5 class="sidebar-banner-subtitle">{{item2_subtitle}}</h5>
+<a class="sidebar-banner-link" href="{{item2_action_link}}">{{item2_action_text}}</a></div>
+</div>

@@ -1,0 +1,10 @@
+<ul class="chiara-brandsCarousel-slider" data-remote-brand-position="chiara-brand-banner-homepage">
+<li class="chiara-brandsCarousel-item"><a title="{{item1_alt}}" href="{{item1_link}}"> <img src="{{item1_img}}" alt="{{item1_alt}}" /> </a></li>
+<li class="chiara-brandsCarousel-item"><a title="{{item2_alt}}" href="{{item2_link}}"> <img src="{{item2_img}}" alt="{{item2_alt}}" /> </a></li>
+<li class="chiara-brandsCarousel-item"><a title="{{item3_alt}}" href="{{item3_link}}"> <img src="{{item3_img}}" alt="{{item3_alt}}" /> </a></li>
+<li class="chiara-brandsCarousel-item"><a title="{{item4_alt}}" href="{{item4_link}}"> <img src="{{item4_img}}" alt="{{item4_alt}}" /> </a></li>
+<li class="chiara-brandsCarousel-item"><a title="{{item5_alt}}" href="{{item5_link}}"> <img src="{{item5_img}}" alt="{{item5_alt}}" /> </a></li>
+<li class="chiara-brandsCarousel-item"><a title="{{item6_alt}}" href="{{item6_link}}"> <img src="{{item6_img}}" alt="{{item6_alt}}" /> </a></li>
+<li class="chiara-brandsCarousel-item"><a title="{{item7_alt}}" href="{{item7_link}}"> <img src="{{item7_img}}" alt="{{item7_alt}}" /> </a></li>
+<li class="chiara-brandsCarousel-item"><a title="{{item8_alt}}" href="{{item8_link}}"> <img src="{{item8_img}}" alt="{{item8_alt}}" /> </a></li>
+</ul>
